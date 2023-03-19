@@ -62,3 +62,5 @@ The top three performing models for different pollutant values are:
 
 
 ## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
