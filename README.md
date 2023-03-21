@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Our repository contains five files, including three Jupyter Notebooks: `EDA.ipynb`, `feature_engineering.ipynb`, and `time_series_forecasting.ipynb`.
+The repository contains a python script file  alongwith three Jupyter Notebooks: `EDA.ipynb`, `feature_engineering.ipynb`, and `time_series_forecasting.ipynb`and a folder for the PLots.
 
 1. The `EDA.ipynb` notebook contains our exploratory data analysis (EDA), where we examine the data to uncover patterns and relationships. We use visualizations to present our findings and gain insights into the data.
 
@@ -40,6 +40,7 @@ Our repository contains five files, including three Jupyter Notebooks: `EDA.ipyn
 
 4. Instead of the `time_series_forecasting.ipynb` , the `main.py` file can be used to run all the models and save the plots and the model results in the 'results.json' file.
 
+5.The `Plots` folder stores all the plots made during the `main.py` for all pollutants and also during the EDA process.
 To run all models on the preprocessed data -
 
 ```sh
