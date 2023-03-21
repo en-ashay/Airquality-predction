@@ -11,7 +11,18 @@ This project uses machine learning models and LSTM networks to predict the futur
 
 ## Installation
 
-To install the required packages for this project, run the following command:
+To install the required packages for this project, switch to a new environment. clone the repository using 
+
+
+
+```sh
+git clone https://github.com/en-ashay/Airquality-predction
+
+## switch to the folder 
+cd Airquality-prediction
+
+```
+then  run the following command:
 
 ```sh
 pip install -r requirements.txt
