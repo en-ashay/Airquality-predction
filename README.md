@@ -38,7 +38,7 @@ The repository contains a python script file  alongwith three Jupyter Notebooks:
 
 3. The `time_series_forecasting.ipynb` notebook contains our analysis of eight different time series forecasting models. We use grid search to systematically explore different combinations of model parameters and identify the best-performing models for each feature. The training history is saved as a CSV file for future reference. Additionally, we generate plots comparing real versus predicted values for all models and all features, which are stored in a plots folder for easy access.
 
-4. Instead of the `time_series_forecasting.ipynb` , the `main.py` file can be used to run all the models and save the plots and the model results in the 'results.json' file.
+4. Instead of the `time_series_forecasting.ipynb` , the `main.py` file can be used to run all the models and save the plots and the model results in the `results.json` file.
 
 5.The `Plots` folder stores all the plots made during the `main.py` for all pollutants and also during the EDA process.
 To run all models on the preprocessed data -
