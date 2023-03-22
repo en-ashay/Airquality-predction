@@ -74,8 +74,10 @@ The top three performing models for different pollutant values are:
 
 
 for example here is the prediction on CO2 values by LightGBM model
-![Image]('Plots/co2_.png')
-
+<!-- ![Image](Plots/co2.png) -->
+<p align="center">
+  <img src="Plots/co2.png" alt="alt text" width="600"/>
+</p>
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for detail
