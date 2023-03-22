@@ -1,7 +1,6 @@
 # Indoor Air Quality Prediction
 
-This project uses machine learning models and LSTM networks to predict the future values of indoor air pollutants.
-
+Predicting indoor air quality pollutants is a crucial step in ensuring the health and safety of building occupants. By identifying potential sources of pollutants, such as mold or volatile organic compounds, measures can be taken to mitigate their impact and create a healthier indoor environment. Additionally, predicting indoor air quality can prevent long-term health issues caused by exposure to pollutants, such as respiratory problems or even cancer. As a part of my Master studies subject, I have developed a project aimed at predicting indoor air quality pollutants, which will contribute to the development of more effective mitigation strategies and healthier indoor environments for all.
 ## Table of Contents
 
 * [Installation](#installation)
