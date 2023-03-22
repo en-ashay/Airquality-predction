@@ -73,6 +73,9 @@ The top three performing models for different pollutant values are:
 | VOC         | SVR, LightGBM , RandomForest
 
 
+for example here is the prediction on CO2 values by LightGBM model
+![Image]('Plots/co2_.png')
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for detail
