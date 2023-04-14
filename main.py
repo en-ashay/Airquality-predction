@@ -233,7 +233,7 @@ def random_forest_regression(X_train, y_train, X_test, y_test,feature):
     model = RandomForestRegressor()
     param_grid = {
         'n_estimators': [150,300,450,600,750,1000],
-    
+        'min_samples_leaf': [1, 2, 4,8,12,14,16],
         'max_depth': [ 40, 60,100,200]
         
     }
