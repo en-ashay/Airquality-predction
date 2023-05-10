@@ -77,6 +77,7 @@ for example here is the prediction on CO2 values by LightGBM model
 <p align="center">
   <img src="Plots/co2.png" alt="alt text" width="600"/>
 </p>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for detail
